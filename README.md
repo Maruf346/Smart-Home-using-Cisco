@@ -9,7 +9,7 @@ This repository contains my **Cisco Smart Home** project, showcasing how network
 
 ## 🚀 How to Use      
 1. Clone the repository:  
-   git clone https://github.com/your-username/cisco-smart-home.git
+   git clone https://github.com/maruf346/cisco-smart-home.git
 2. Open the project in Cisco Packet Tracer (or relevant software).
 3. Simulate and analyze the smart home network.
 ## 📜 Requirements   
